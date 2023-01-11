@@ -20,7 +20,7 @@ export default function Home() {
           <div className='header-text'>
             <p>Frontend developer</p>
             <h1>Unleash your website</h1>
-            <h2>Voor webdesigners, webbureau's en ondernemers</h2>
+            <h2>Voor webdesigners, webbureaus en ondernemers</h2>
           
           </div>
           
@@ -40,7 +40,7 @@ export default function Home() {
           </div>
 
           <div className='product'>
-            <h2>Webdesigners / bureau's</h2>
+            <h2>Webdesigners / bureaus</h2>
             <p>Geen tijd om jouw webdesign om te zetten naar een website?</p>
             <p>Ik help jou graag</p>
             <p>Neem contact op via sylvana@flatcode.nl</p>
