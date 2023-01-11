@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import logo from '../../public/images/logo/Flatcode_logo_BW.png';
+import logo from '../../public/images/logo/Flatcode_GB.png';
 
  
 const NavBar = () => {
