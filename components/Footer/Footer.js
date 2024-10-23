@@ -17,7 +17,7 @@ const Footer = () => {
     </div>
 
     <div class="footer-rules">
-        <p>&copy; flatcode 2022-2023</p>
+        <p>&copy; flatcode 2022-2024</p>
         <p>contact: sylvana@flatcode.nl</p>
         {/* <p>Alle rechten voorbehouden</p> */}
         {/* <a href="docs/AlgVoorw-FC.pdf"> Privacyverklaring</a>
